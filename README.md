@@ -16,7 +16,7 @@ The Mutual Funds App is a web application designed to help users track and manag
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/mutualfunds.git
+   git clone https://github.com/anehrudh/mutualfunds.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -38,5 +38,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## Contact
-For any issues or inquiries, contact [your email].
+For any issues or inquiries, contact anirudhbhatka@gmail.com.
 
