@@ -1,0 +1,55 @@
+/* Container styles */
+.container {
+  background-color: rgb(249, 238, 224);
+    width: 300px;
+    height: 570px;
+    padding: 30px 20px; /* combined padding properties */
+    border-radius: 10px;
+   
+  }
+  
+  /* Label styles */
+  label {
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    color: #333; /* dark gray */
+    height: 50px;
+  }
+  
+  /* Input styles */
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    height: 30px;
+    border: 1px solid #ccc; /* light gray border */
+    border-radius: 5px;
+  }
+  
+  input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus {
+    border-color: #aaa; /* darker gray border on focus */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* subtle shadow on focus */
+    height: 30px;
+  }
+  
+  /* Button styles (assuming you have a submit button) */
+  button[type="submit"] {
+    width: 160px;
+    height: 40px;
+    margin-left: 70px;
+    background-color: #4CAF50; /* green */
+    color: #fff; /* white text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3e8e41; /* darker green on hover */
+  }
+
+  input
+  {
+    height: 30px;
+    margin-top: 5px;
+  }
